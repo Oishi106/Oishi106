@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://www.canva.com/design/DAG5HpzYtXI/_GvR-9yhvOQNTQOUecstnQ/view?embed%22" alt="GitHub Banner"/>
-</p>
+![My Profile Banner](Oishi_Profile.png)
 <h1 align="center">Hi 👋, I'm Mahmuda Afroz</h1>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Mahmuda+Afroz+;Full+Stack+Web+Devloper" alt="Typing SVG" /></a>
