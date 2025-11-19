@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/mahmuda afroz oishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmuda afroz oishi" height="30" width="40" /></a>
+<a href="https://fb.com/mahmuda afroz oishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mahmuda Afroz Oishi Facebook" height="30" width="40" /></a><a href="https://www.instagram.com/mahmudaafrozoishi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmudaafrozoishi Instagram" height="30" width="40" /></a><a href="https://discord.com/users/1260893849891377274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mahmuda_afroz_oishi Discord" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
