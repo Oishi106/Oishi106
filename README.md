@@ -3,7 +3,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Mahmuda+Afroz+;Full+Stack+Web+Devloper" alt="Typing SVG" /></a>
 </div>
-<h3 align="center">Web Dev Learner | Automation Enthusiast |Passionate Full Stack Web Developer</h3>
+<h3 align="center">Web Dev Learner | Automation Enthusiast | Passionate Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oishi106&label=Profile%20views&color=0e75b6&style=flat" alt="oishi106" /> </p>
 
@@ -15,11 +15,11 @@
 
 - 👯 I’m looking to collaborate on **MERN stack related Projects**
 
-- 💬 Ask me about **react,js,c++,mongoDB,express js,node.js**
+- 💬 Ask me about **react, js, c++, mongoDB, express js, node.js**
 
 - 📫 How to reach me **mahmudaoishi457@gmail.com**
 
-- ⚡ Fun fact **I like to watch Cartoon**
+- ⚡ Fun fact, **I like to watch Cartoons**
 
 <br/>
 
@@ -84,7 +84,11 @@
   </a> &nbsp; &nbsp; &nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
+  </a> &nbsp; &nbsp; &nbsp;
+ <a href="https://pixso.net/" target="_blank" rel="noreferrer"> 
+    <img src="https://logosandtypes.com/wp-content/uploads/2025/02/pixso.svg" alt="pixso" width="40" height="40"/> 
+  </a> &nbsp; &nbsp; &nbsp;
+
 </p> 
 
 <h3 align="left">Tools & Technologies:</h3>
