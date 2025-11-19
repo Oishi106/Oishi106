@@ -21,9 +21,13 @@
 
 - ⚡ Fun fact **I like to watch Cartoon**
 
-<h3 align="left">Connect with me:</h3>
+<br/>
+
+
+
+ <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/mahmuda afroz oishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mahmuda Afroz Oishi Facebook" height="30" width="40" /></a><a href="https://www.instagram.com/mahmudaafrozoishi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmudaafrozoishi Instagram" height="30" width="40" /></a><a href="https://discord.com/users/1260893849891377274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mahmuda_afroz_oishi Discord" height="30" width="40" /></a>
+<a href="https://fb.com/mahmuda afroz oishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mahmuda Afroz Oishi Facebook" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp; <a href="https://www.instagram.com/mahmudaafrozoishi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmudaafrozoishi Instagram" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp; <a href="https://discord.com/users/1260893849891377274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mahmuda_afroz_oishi Discord" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
@@ -67,7 +71,7 @@
   </a> 
 </p>
 
-<h3 align="left">Databases & Tools:</h3>
+<h3 align="left">Databases & Models:</h3>
 <p align="left"> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
@@ -81,7 +85,28 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
+</p> 
+
+<h3 align="left">Tools & Technologies:</h3>
+<p align="left"> 
+  <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
+  </a> &nbsp; &nbsp; &nbsp;
+  <a href="https://github.com/Oishi106" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> 
+  </a> &nbsp; &nbsp; &nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> 
+  </a> &nbsp; &nbsp; &nbsp;
+   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="vscode" width="40" height="40"/> 
+  </a> &nbsp; &nbsp; &nbsp;
 </p>
+
+<br/>
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oishi106&show_icons=true&locale=en&layout=compact" alt="oishi106" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oishi106&show_icons=true&locale=en" alt="oishi106" /></p>
