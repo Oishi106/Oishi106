@@ -1,7 +1,7 @@
 ![My Profile Banner](Oishi_Profile.png)
 <h1 align="center">Hi 👋, I'm Mahmuda Afroz</h1>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Mahmuda+Afroz+;Full+Stack+Web+Devloper" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Mahmuda+Afroz+;Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 </div>
 <h3 align="center">Web Dev Learner | Automation Enthusiast | Passionate Full Stack Web Developer</h3>
 
