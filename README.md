@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **MERN stack related Projects**
 
-- 💬 Ask me about **react, js, c++, mongoDB, express js, node.js**
+- 💬 Ask me about **react.js, next.js, c++, mongoDB, express js, node.js**
 
 - 📫 How to reach me **mahmudaoishi457@gmail.com**
 
@@ -37,13 +37,7 @@
   </a>
   &nbsp; &nbsp; &nbsp;
 
-  <a href="https://www.instagram.com/mahmudaafrozoishi/" target="blank">
-    <img align="center" 
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-         alt="mahmudaafrozoishi Instagram" 
-         height="30" width="40" />
-  </a>
-  &nbsp; &nbsp; &nbsp;
+
 
   <a href="https://discord.com/users/1260893849891377274" target="blank">
     <img align="center" 
