@@ -9,6 +9,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oishi106" alt="oishi106" /></a> </p>
 
+<h3 align="left"> :eyes: Current overview: </h3>
+
 - 🔭 I’m currently working on **Gym Development Project**
 
 - 🌱 I’m currently learning **Backend**
@@ -27,8 +29,38 @@
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/mahmuda afroz oishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mahmuda Afroz Oishi Facebook" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp; <a href="https://www.instagram.com/mahmudaafrozoishi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmudaafrozoishi Instagram" height="30" width="40" /></a>&nbsp; &nbsp; &nbsp; <a href="https://discord.com/users/1260893849891377274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mahmuda_afroz_oishi Discord" height="30" width="40" /></a>
+  <a href="https://fb.com/mahmuda afroz oishi" target="blank">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
+         alt="Mahmuda Afroz Oishi Facebook" 
+         height="30" width="40" />
+  </a>
+  &nbsp; &nbsp; &nbsp;
+
+  <a href="https://www.instagram.com/mahmudaafrozoishi/" target="blank">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+         alt="mahmudaafrozoishi Instagram" 
+         height="30" width="40" />
+  </a>
+  &nbsp; &nbsp; &nbsp;
+
+  <a href="https://discord.com/users/1260893849891377274" target="blank">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" 
+         alt="mahmuda_afroz_oishi Discord" 
+         height="30" width="40" />
+  </a>
+  &nbsp; &nbsp; &nbsp;
+
+  <a href="https://www.linkedin.com/in/mahmuda-afroz-/" target="blank">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="Mahmuda Afroz Oishi LinkedIn" 
+         height="30" width="40" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
@@ -59,17 +91,29 @@
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> &nbsp; &nbsp; &nbsp;
+  </a> 
+  &nbsp; &nbsp; &nbsp;
+
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> &nbsp; &nbsp; &nbsp;
+  </a> 
+  &nbsp; &nbsp; &nbsp;
+
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> &nbsp; &nbsp; &nbsp;
+  </a> 
+  &nbsp; &nbsp; &nbsp;
+
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
+  &nbsp; &nbsp; &nbsp;
+
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  </a>
 </p>
+
 
 <h3 align="left">Databases & Models:</h3>
 <p align="left"> 
